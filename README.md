@@ -1,4 +1,4 @@
-# DS620-CT2
+# DS610-CT2
 Critical Thinking Assignment 2 is part of DS610 (Advanced Applied Statistics) course
 
 ### CT2: Solve 4 Problems using R
